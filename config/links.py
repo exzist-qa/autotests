@@ -3,4 +3,4 @@
 class Links:
 
     HOST = "https://stroyru-demo.joy-dev.com/"
-    BASIC_LOGIN = f"{HOST}/auth"
+    LOGIN_PAGE = f"{HOST}/auth"
